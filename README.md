@@ -24,7 +24,7 @@ Unix/Linux Security Hardening Checklist
 
 * Update the checklist:
 
-```bash
+
 $ python security_hardening_checklist.py --update 1 --status COMPLETE
 Unix/Linux Security Hardening Checklist
 ---------------------------------------
