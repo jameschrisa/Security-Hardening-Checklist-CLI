@@ -21,3 +21,13 @@ Unix/Linux Security Hardening Checklist
 [NOT_STARTED] Disable unnecessary network services
 [NOT_STARTED] Configure firewall rules
 ...
+
+* Update the checklist:
+
+```bash
+$ python security_hardening_checklist.py --update 1 --status COMPLETE
+Unix/Linux Security Hardening Checklist
+---------------------------------------
+[COMPLETE] Disable unnecessary network services
+[NOT_STARTED] Configure firewall rules
+...
